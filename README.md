@@ -51,7 +51,7 @@ cd optimized-crop-selection
 
 3. Run the script:
 ```bash
-python main.py
+python optimize_crops_selection.py
 ```
 
 ## Code Explanation
